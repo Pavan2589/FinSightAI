@@ -7,9 +7,8 @@
 
 ![FinSightAI Dashboard](./Landing_page.png)
 ![Analysis_page](./Anlysis.png)
-![Analysis Page_2](./Analysis_pic2.png)
-
-
+![Analysis Page_2](./Analysis_pic2.png)   
+![flowchart.jpg](./flowchart.jpg)
 
 
 ##  Features
